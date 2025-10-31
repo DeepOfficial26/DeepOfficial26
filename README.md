@@ -1,7 +1,7 @@
 👨‍💻 Pradip Yadav
 
-Full-Stack Developer | MEAN & MERN | Python Backend
-Welcome! I'm Pradip Yadav, a dedicated Full-Stack Developer with over 4 years of professional experience. My expertise lies in designing scalable web applications, implementing secure systems, and optimizing database performance. I thrive on solving complex problems and delivering high-quality solutions.
+Full-Stack Developer | MEAN & MERN | Node.js Backend Developer
+Welcome! I'm Pradip Yadav, a dedicated Full-Stack Developer with over 5 years of professional experience. My expertise lies in designing scalable web applications, implementing secure systems, and optimizing database performance. I thrive on solving complex problems and delivering high-quality solutions.
 
 🌟 Career Highlights
 
@@ -40,7 +40,7 @@ Full-Stack Developer June 2022 – Dec 2024
 * Multi-Factor Authentication (MFA): Engineered a custom MFA solution, reducing unauthorized access by 30%.
 * Rating & Performance System: Created a dynamic 5-star rating system with performance analytics.
 * Document Approval System: Led team efforts in system design, feature development, and progress reporting.
-Appiot Solutions Pvt Ltd
+
 
 Full-Stack Developer Jun 2021 – June 2022
 * Developed an E-learning platform using Angular13+, Node.js, and MongoDB, boosting user engagement by 5%.
